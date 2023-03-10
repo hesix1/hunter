@@ -1,0 +1,11 @@
+ECLIPSE DEBUG LOG (03-10-2023) - Successfully Opened
+WARNING:   THESE LOGS MAY CONTAIN SENSITIVE INFORMATION. I.E USERNAMES AND POSSIBLY HWID'S.
+Version UUID: eol_1, Test Copy: nil, Is Synapse: false
+
+---------------Log Start---------------
+
+[00:06:30]: (Loading) Rejoined iusekrnl45. Rejoined 1 times.
+[00:06:30]: (Loading) Executed too fast.
+[00:06:35]: (Loading) Rejoined iusekrnl45. Rejoined 2 times.
+[00:06:35]: (Loading) Executed too fast.
+[00:06:38]: (Loading) Rejoined iusekrnl45. Rejoined 3 times.

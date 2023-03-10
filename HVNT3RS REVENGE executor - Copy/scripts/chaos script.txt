@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Idkwhatudoin/TSS/main/TSSChaosScript", true))()
